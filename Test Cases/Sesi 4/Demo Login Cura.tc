@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Username = John Doe
+Password = ThisIsNotAPassword</description>
+   <name>Demo Login Cura</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1570e5e7-9b06-4b41-9320-46343db39442</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>30b86158-add3-4327-b732-c3754a48d04e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>62bc9d35-97b2-457f-a468-0d9772b5286d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>30b86158-add3-4327-b732-c3754a48d04e</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>62bc9d35-97b2-457f-a468-0d9772b5286d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
